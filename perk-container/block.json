@@ -1,0 +1,14 @@
+{
+	"name": "create-block/perk-container",
+	"title": "Perk Container",
+	"category": "layout",
+	"icon": "buddicons-groups",
+	"description": "A container block that holds multiple perk items.",
+	"textdomain": "perk-container",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./editor.css",
+	"style": "file:./style.css"
+}

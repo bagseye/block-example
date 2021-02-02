@@ -1,0 +1,14 @@
+{
+	"name": "create-block/perk",
+	"title": "Perk",
+	"category": "widgets",
+	"icon": "buddicons-groups",
+	"description": "An individual perk, that displays an image, title, and subtext.",
+	"textdomain": "perk",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./editor.css",
+	"style": "file:./style.css"
+}

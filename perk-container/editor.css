@@ -1,0 +1,29 @@
+/**
+ * The following styles get applied inside the editor only.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-create-block-perk-container {
+	background-color: #fff;
+	text-align: center;
+	border: 1px solid #000;
+}
+
+.wp-block-create-block-perk-container h2[role="textbox"],
+.wp-block-create-block-perk-container p[role="textbox"] {
+	color: rgb(85,85,85);
+}
+
+.wp-block-create-block-perk-container .block-editor-block-list__layout {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.wp-block-create-block-perk-container  .block-editor-block-list__block[data-type="create-block/perk"] {
+	width: 25%;
+}
+
+.wp-block-create-block-perk-container .block-list-appender {
+	width: 100%;
+}

@@ -1,0 +1,39 @@
+.perks {
+	padding: 0 25px;
+    content-visibility: auto;
+    contain-intrinsic-size: 1px 500px;
+    background-color: #fff;
+    color: #fff;
+    text-align: center;
+}
+
+.perks__container {
+	max-width: 1250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.perks__title--container {
+	max-width: 670px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 40px;
+}
+
+.perks__title--container h2 {
+	color: rgb(85,85,85);
+}
+
+.perks__title--container >*:first-child {
+	margin-top: 0;
+}
+
+.perks__title--container >*:last-child {
+	margin-bottom: 0;
+}
+
+.perks__layout {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}

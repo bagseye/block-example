@@ -1,0 +1,7 @@
+{
+	"name": "perk",
+	"version": "0.1.0",
+	"description": "An individual perk, that displays an image, title, and subtext.",
+	"author": "Strut",
+	"license": "GPL-2.0-or-later"
+}

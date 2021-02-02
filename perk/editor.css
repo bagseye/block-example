@@ -1,0 +1,24 @@
+/**
+ * The following styles get applied inside the editor only.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-create-block-perk .components-button.button-image {
+	position: relative;
+	width: 100%;
+	height: auto;
+	max-width: 175px;
+	max-height: 175px;
+}
+
+.wp-block-create-block-perk h4[role="textbox"] {
+	color: rgb(0,47,121);
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.wp-block-create-block-perk p[role="textbox"] {
+	margin-top: 10px;
+	color: rgb(85,85,85);
+}

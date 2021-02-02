@@ -1,0 +1,7 @@
+{
+	"name": "perk-container",
+	"version": "0.1.0",
+	"description": "A container block that holds multiple perk items.",
+	"author": "Strut",
+	"license": "GPL-2.0-or-later"
+}
